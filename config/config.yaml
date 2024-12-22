@@ -1,8 +1,0 @@
-Name: chat
-Port: ":8080"
-
-mysql:
-  DataSource: "dcy:dcy1119.@tcp(dongcy.cn:3306)/fim?charset=utf8mb4&parseTime=True&loc=Local"
-redis:
-  Addr: "dongcy.cn:6379"
-  Password: "dcy1119."
